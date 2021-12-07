@@ -1,6 +1,5 @@
-# Isola 
-An alpha-stagger 30% keyboard with ISO enter and nono key;
-Italian for 'island'; pronounced /EE-so-la/
+# Isola (Italian for 'island'; pronounced /EE-so-la/)
+An alpha-stagger 30% keyboard with ISO enter and nono key
 
 Case files are functional but still a work in progress...USB cutout needs to be adjusted
 
