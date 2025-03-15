@@ -1,8 +1,10 @@
 # Isola /EE-so-la/
 An alpha-stagger 30% keyboard with ISO enter and nono key
 
-Case files are functional but still a work in progress...Working on bottom mount case
+Latest version is v3. Some sample views:
 
-![Isola Blue case](https://user-images.githubusercontent.com/69826495/161684078-ba160d5c-d71d-41ad-8c7c-38c634b2f045.jpg)
+![PBS Isola wide front_resize](https://github.com/user-attachments/assets/95792a4d-464c-41cb-8613-68ba600bb91a)
 
-![Isola Side](https://user-images.githubusercontent.com/69826495/149285655-ce8e61c5-c752-489a-9368-897f582e4c8c.jpg)
+![PBS Isola wide_resize](https://github.com/user-attachments/assets/051dbe61-9be7-405c-adf2-624085d3fc7d)
+
+![PBS Isola right close_resize](https://github.com/user-attachments/assets/2a434428-1a5c-47b6-aabc-ae037d6841d0)
